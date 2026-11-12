@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibreriaMath")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1588f026072e772a0367c7cfbf3f740daa48d779")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibreriaMath")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibreriaMath")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
